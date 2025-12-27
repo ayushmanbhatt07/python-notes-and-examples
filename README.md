@@ -112,7 +112,7 @@ This book is used **only for learning and conceptual understanding**, and comple
 This repository contains Python notes, theory, and example codes to help you understand Python programming using a problem-solving approach. It also includes the book Python Programming Using Problem-Solving Approach by Reema Thareja for deeper reference.
 
 1. Clone the Repository
-git clone https://github.com/your-username/python-notes-and-examples.git
+git clone https://github.com/ayushmanbhatt07/python-notes-and-examples.git
 cd python-notes-and-examples
 
 2. Explore the Folder Structure
